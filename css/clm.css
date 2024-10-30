@@ -1,0 +1,26 @@
+.clmadmin {
+
+background-color: #fff;
+padding: 5px;
+}
+
+.w3-light-grey {
+color: #000!important;
+background-color: #f1f1f1!important;
+}
+#pageprocess {
+
+    color: #fff!important;
+    background-color: #4CAF50!important;
+    text-align: center;
+
+}
+.none
+{
+  display: none; 
+}
+.multiple 
+{
+  width: 200px;
+  min-height: 200px !important;
+}
